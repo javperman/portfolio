@@ -32,7 +32,7 @@ operations workflow.
 | Project | What it demonstrates | Links |
 |---|---|---|
 | **JA ⇄ ES Live Interpreter** | Bidirectional Japanese ⇄ Spanish interpretation on Linux: PipeWire routing, local Whisper, Vertex/Gemini translation, VOICEVOX/Piper TTS, GTK4 UI, 185 tests. | [Code](https://github.com/javperman/interprete-ja-es) |
-| **video-editor-ai** | Deterministic editing pipeline for technical tutorials: `edit_plan.json`, immutable revisions, local ASR, subtitles, PiP, NVENC render, QC. 30 min → ~7.6 min, 2.5 GB peak. | [Code](https://github.com/javperman/video-editor-ai) |
+| **video-editor-ai** | Deterministic editing pipeline for technical tutorials: `edit_plan.json`, immutable revisions, local ASR, subtitles, PiP, NVENC render, QC. 30 min → ~7.6 min, 2.5 GB peak. | [Code](https://github.com/javperman/video-editor-ai) · [Demo](https://youtu.be/XcZ60adpBms) |
 | **FitPrimeLab** | Multilingual fitness platform with interactive tools and editorial content in EN/ES/PT/JA. | [Live](https://fitprimelab.com) · [Code](https://github.com/javperman/fitprimelab-site) |
 | **AI Engineering Playbook** | How I build with agents: AGENTS.md contracts, phased plans, review checklists, testing, MCP and secret hygiene. | [Code](https://github.com/javperman/ai-engineering-playbook) |
 

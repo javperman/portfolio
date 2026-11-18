@@ -24,7 +24,7 @@ SaaS em produção para 退職代行 (serviços de saída profissional) no Japã
 | Projeto | O que demonstra | Links |
 |---|---|---|
 | **Intérprete JA ⇄ ES** | Interpretação bidirecional japonês ⇄ espanhol no Linux: PipeWire, Whisper local, tradução Vertex/Gemini, TTS VOICEVOX/Piper, UI GTK4, 185 testes. | [Código](https://github.com/javperman/interprete-ja-es) |
-| **video-editor-ai** | Pipeline determinístico de edição: `edit_plan.json`, revisões imutáveis, ASR local, legendas, PiP, render NVENC e QC. 30 min → ~7,6 min, 2,5 GB de pico. | [Código](https://github.com/javperman/video-editor-ai) |
+| **video-editor-ai** | Pipeline determinístico de edição: `edit_plan.json`, revisões imutáveis, ASR local, legendas, PiP, render NVENC e QC. 30 min → ~7,6 min, 2,5 GB de pico. | [Código](https://github.com/javperman/video-editor-ai) · [Demo](https://youtu.be/XcZ60adpBms) |
 | **FitPrimeLab** | Plataforma de fitness multilíngue com ferramentas interativas e conteúdo em EN/ES/PT/JA. | [Site](https://fitprimelab.com) · [Código](https://github.com/javperman/fitprimelab-site) |
 | **AI Engineering Playbook** | Como construo com agentes: contratos AGENTS.md, planos por fases, checklists, testes, MCP e higiene de segredos. | [Código](https://github.com/javperman/ai-engineering-playbook) |
 

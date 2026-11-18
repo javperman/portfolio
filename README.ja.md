@@ -1,4 +1,3 @@
-<!-- DRAFT: pending native review before publication. -->
 # ケーススタディ — 私が作り、リリースした AI プロダクト
 
 本番環境で動く AI プロダクトと自動化システムを作っています。ここでは、課題、アーキテクチャ、エンジニアリング上の制約、そして私が担当した範囲を、エンジニアに役立ち、関係企業に安全なレベルで説明します。
@@ -25,7 +24,7 @@
 | プロジェクト | 示していること | リンク |
 |---|---|---|
 | **JA ⇄ ES Live Interpreter** | Linux 上の日西双方向通訳。PipeWire、ローカル Whisper、Vertex/Gemini 翻訳、VOICEVOX/Piper TTS、GTK4 UI、185 テスト。 | [コード](https://github.com/javperman/interprete-ja-es) |
-| **video-editor-ai** | 技術チュートリアル向けの決定的な編集パイプライン。`edit_plan.json`、不変リビジョン、ローカル ASR、字幕、PiP、NVENC レンダー、QC。30 分 → 約 7.6 分、ピーク 2.5 GB。 | [コード](https://github.com/javperman/video-editor-ai) |
+| **video-editor-ai** | 技術チュートリアル向けの決定的な編集パイプライン。`edit_plan.json`、不変リビジョン、ローカル ASR、字幕、PiP、NVENC レンダー、QC。30 分 → 約 7.6 分、ピーク 2.5 GB。 | [コード](https://github.com/javperman/video-editor-ai) · [デモ](https://youtu.be/XcZ60adpBms) |
 | **FitPrimeLab** | EN/ES/PT/JA の多言語フィットネスプラットフォーム。インタラクティブなツールと記事。 | [サイト](https://fitprimelab.com) · [コード](https://github.com/javperman/fitprimelab-site) |
 | **AI Engineering Playbook** | エージェントとの開発方法。AGENTS.md の契約、フェーズ計画、レビュー、テスト、MCP、秘密情報の管理。 | [コード](https://github.com/javperman/ai-engineering-playbook) |
 
